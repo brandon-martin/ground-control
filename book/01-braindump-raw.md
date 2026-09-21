@@ -47,9 +47,18 @@ Losing the race to Dee was a moment that cemented my conceptual understanding th
 I'll also note that it is a lot easier today, given technology, in the AI era that has improved transcription in general, and mobile immediate transcription. By miles.
 
 
+### The race — the numbers (answers Q3)
+
+Dee had completed his interrogatory responses in about 15 minutes. And he had to complete several hundred.
+
+I had approximately 35 responses due. I stayed from 6 p.m. to around 10:15 in the evening and went home without having completed all of them.
+
+
 ---
 
 ## Resolved
+
+- **Race numbers:** RESOLVED — see "The race — the numbers" above. Dee: several hundred responses, ~15 min. Author: ~35 responses, 6:00 p.m. to ~10:15 p.m., unfinished.
 
 - **Name:** RESOLVED — fictionalize. Real person, first name Dee, since deceased. Placeholder "Dee" used throughout pending a chosen pseudonym. [DECISION: pick the fictional name]
 - **Conversion arc:** RESOLVED — see "The conversion" above. Losing the race cemented the *concept*; the *skill* took years and the friction of the era explains the gap.
@@ -59,5 +68,5 @@ I'll also note that it is a lot easier today, given technology, in the AI era th
 - [GAP: numbers] The race has no figures. How long were you at it? How long was he? Roughly how many interrogatories?
 - [GAP: transition] "in one sitting" — you said "one setting." Assumed "sitting." Confirm.
 - [unclear: "and no document processing"] Reads as "I could do all advanced legal work and *do* no document processing." Confirm.
-- [GAP: item 3] You started answering question 3 (the missing numbers in the race scene) and stopped at "3." — how long were you at it, how long was Dee, roughly how many interrogatories?
 - [unclear: transcription slip] "Dran's dictation" — read as "that dictation." Confirm.
+- [VERIFY: "several hundred" interrogatories] Most jurisdictions cap interrogatories well below that (commonly 25-35 per party). A legal reader will stop on this. Possibilities: multiple sets across multiple parties; requests for production and admissions counted together; or memory inflation. Needs a defensible framing before print.
