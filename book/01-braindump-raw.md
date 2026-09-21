@@ -54,9 +54,20 @@ Dee had completed his interrogatory responses in about 15 minutes. And he had to
 I had approximately 35 responses due. I stayed from 6 p.m. to around 10:15 in the evening and went home without having completed all of them.
 
 
+### The father's lines, and the word-processor trap
+
+He would say, "No playing in the computer." Or, when he was less generous, "Don't waste your time trying to type all of that."
+
+One thing he was most certainly correct about was that it is easy to get lost in word processing legal documents, because it isn't simply text on a page. Many legal documents require elaborate, sophisticated formatting and structure. Pleadings require line numbers and captions and boxes and lines of text that align with numbers, footers, etc.
+
+It is often too easy to expend your energy fighting with the document in a word processor instead of on legal research and quality reasoning that will win the day.
+
+
 ---
 
 ## Resolved
+
+- **"one sitting"** and **"do no document processing"**: both CONFIRMED by author.
 
 - **Race numbers:** RESOLVED — see "The race — the numbers" above. Dee: several hundred responses, ~15 min. Author: ~35 responses, 6:00 p.m. to ~10:15 p.m., unfinished.
 
@@ -66,7 +77,4 @@ I had approximately 35 responses due. I stayed from 6 p.m. to around 10:15 in th
 ## Open questions for the author
 
 - [GAP: numbers] The race has no figures. How long were you at it? How long was he? Roughly how many interrogatories?
-- [GAP: transition] "in one sitting" — you said "one setting." Assumed "sitting." Confirm.
-- [unclear: "and no document processing"] Reads as "I could do all advanced legal work and *do* no document processing." Confirm.
-- [unclear: transcription slip] "Dran's dictation" — read as "that dictation." Confirm.
 - [VERIFY: "several hundred" interrogatories] Most jurisdictions cap interrogatories well below that (commonly 25-35 per party). A legal reader will stop on this. Possibilities: multiple sets across multiple parties; requests for production and admissions counted together; or memory inflation. Needs a defensible framing before print.
