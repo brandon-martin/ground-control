@@ -34,12 +34,30 @@ I was a fast typer, so I thought his hope would be dashed by my speed. I was bar
 
 **Second — forced organization.** For substantive responses, because he was dictating, he had been forced to organize them very effectively and have them at a finger's reach so that he could pull and quote from documents, essentially reading. That kind of forced organization for the purpose of compiling dictation in one sitting is a genuine secret to speedy and effective dictation that will serve you well throughout your life in many areas beyond dictation.
 
+### The conversion — why it wasn't immediate (answers Q2)
+
+My conversion didn't happen immediately. There was a lot of friction with dictation back then.
+
+For instance, there was no decent real-time computer-based transcription. Instead, there were old software-based systems like Dragon NaturallySpeaking that made mistakes about five or six times every hundred words and thus required constant correction. And they were only that good if you trained them religiously, fought with the right hardware and configuration, and the room was quiet enough for the software to be effective.
+
+If you used a team of transcribers like my law firm preferred, there was a delay — sometimes three or four days before you would get the text back of your dictation, which makes for a difficult feedback loop and requires you to plan ahead quite a bit, which wasn't my strength when I was younger.
+
+Losing the race to Dee was a moment that cemented my conceptual understanding that dictation was the superior workflow for most professional activity. However, it took a while to develop it into a skill, and this book includes some of the methods I used to turn myself into an effective dictator.
+
+I'll also note that it is a lot easier today, given technology, in the AI era that has improved transcription in general, and mobile immediate transcription. By miles.
+
+
 ---
+
+## Resolved
+
+- **Name:** RESOLVED — fictionalize. Real person, first name Dee, since deceased. Placeholder "Dee" used throughout pending a chosen pseudonym. [DECISION: pick the fictional name]
+- **Conversion arc:** RESOLVED — see "The conversion" above. Losing the race cemented the *concept*; the *skill* took years and the friction of the era explains the gap.
 
 ## Open questions for the author
 
-- [DECISION: name] "D. Stasnopoulos" — real person? Use full name with permission, keep the initial, or fictionalize?
-- [GAP: outcome] The father-vs-you arc opens ("I didn't necessarily believe him at first") but never closes. When did you convert? Is there a moment?
 - [GAP: numbers] The race has no figures. How long were you at it? How long was he? Roughly how many interrogatories?
 - [GAP: transition] "in one sitting" — you said "one setting." Assumed "sitting." Confirm.
 - [unclear: "and no document processing"] Reads as "I could do all advanced legal work and *do* no document processing." Confirm.
+- [GAP: item 3] You started answering question 3 (the missing numbers in the race scene) and stopped at "3." — how long were you at it, how long was Dee, roughly how many interrogatories?
+- [unclear: transcription slip] "Dran's dictation" — read as "that dictation." Confirm.
