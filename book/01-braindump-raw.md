@@ -63,6 +63,29 @@ One thing he was most certainly correct about was that it is easy to get lost in
 It is often too easy to expend your energy fighting with the document in a word processor instead of on legal research and quality reasoning that will win the day.
 
 
+## Session 2 — 2026-09-22
+
+### The Word Warrior Method
+
+[false starts: "the warrior, war, the word warrior" — settled on **Word Warrior Method**]
+
+The Word Warrior Method I developed for the purposes of facilitating my own dictation practice comes in two flavors today.
+
+**First is the traditional method.** In that method, there are four steps:
+
+1. Gather materials, information, and brainstorm, so that everything that is needed is within reach.
+2. Choose an organizational structure for the thinking and presentation.
+3. Dictate.
+4. Edit.
+
+**The second method I now call the AI method.**
+
+1. Brain dumping everything into an AI chat. [unclear: "right. chat. Nine." — read as "AI chat"; the "Nine" appears to be transcription noise]
+2. Deciding the organizational structure. [unclear: heavy transcription garble here — "Step number two not. means okay. it's deciding the organizational structure. Okay."] Since structure is one of the areas that is an "AI tell." [unclear: the passage that follows — "Those are sisters. I know. Um, if you want to use it there. I don't know sisters. Non-existent." — is unrecoverable from the transcript. Possibly side conversation, possibly a mangled analogy. NOT reconstructed.]
+3. Craft a prompt for the creation of the writing based on the decision made in the previous step.
+4. Run various "no slop" skills and do basic editing.
+
+
 ---
 
 ## Resolved
@@ -78,3 +101,6 @@ It is often too easy to expend your energy fighting with the document in a word 
 
 - [GAP: numbers] The race has no figures. How long were you at it? How long was he? Roughly how many interrogatories?
 - [VERIFY: "several hundred" interrogatories] Most jurisdictions cap interrogatories well below that (commonly 25-35 per party). A legal reader will stop on this. Possibilities: multiple sets across multiple parties; requests for production and admissions counted together; or memory inflation. Needs a defensible framing before print.
+- [GAP: AI method step 2] The reasoning for why *you* decide structure rather than the AI is the most important claim in the method, and the transcript lost it. Worth re-dictating from scratch.
+- [unclear: "Those are sisters..."] Unrecoverable. Was this part of the book, or something else in the room?
+- [DEFINE: "no slop" skills] Named tools/prompts, or your own checklist? Needs specifics to be usable by a reader.
