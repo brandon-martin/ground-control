@@ -108,6 +108,15 @@ For instance, if you enjoy imitating a famous actor, a comedian, a cartoon chara
 And, as you develop your skill, part of being a good dictator will be aligning the concept of spoken "voice" with whatever project you are wanting to complete. Some dictation — say a business letter — involves a voice that is appropriately formal. But a text message to an old friend may be considerably less formal, and appropriately so.
 
 
+#### Technique 2, continued — collecting voices
+
+It's worthwhile to begin to become aware of excellent voices — for the concept of voice in writing or performance — as you see it in your life and in other people's work.
+
+When I read a Stephen King novel, I'm often so captured by his voice that afterwards, when I've completed the book, I miss not only his characters, but the voice of his narrative writing — which, through techniques like dialogue and his first-person writing, is a big part of characterization in his novels.
+
+Dictation can help us develop our own writing voice as we observe what we like in others, imitate, and innovate.
+
+
 ---
 
 ## Resolved
@@ -130,3 +139,4 @@ And, as you develop your skill, part of being a good dictator will be aligning t
 - [GAP: technique 1 example] "We can all imagine different needs or necessities" — you gestured at examples and moved on. One or two concrete constraints you actually hit (and what you invented to solve them) would make this technique land instead of stay abstract.
 - [unclear: technique 2 opening] "It's difficult to do something that just prevents you from smiling." Doesn't parse as transcribed. Did you mean it's difficult to do something that makes you want to laugh at yourself? Something you can't do with a straight face? Re-dictate.
 - [DEVELOP: the "voice" pivot] Technique 2 quietly does something the rest of the book hasn't yet — it uses "voice" in both senses (the sound you make, and the register a document calls for) and bridges them. That double meaning may be the book's central teaching device. Worth dictating on deliberately.
+- [DEVELOP: "observe, imitate, innovate"] Three-word progression, dictated in passing. It is a cleaner statement of how voice is actually learned than most craft books manage. Candidate for a named sub-method or chapter frame.
