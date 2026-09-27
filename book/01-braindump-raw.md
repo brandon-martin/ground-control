@@ -97,6 +97,17 @@ What you'll quickly find is that you become less self-conscious, as your focus s
 You also learn to develop your own techniques in response to need or necessity. We can all imagine different needs or necessities. Forcing yourself to dictate in order to accomplish things throughout the day places you on a path of many different needs, necessities, and constraints for you to figure out and develop new skills in overcoming.
 
 
+### Technique 2 — Use a funny voice
+
+Most people report that the reason why they struggle with dictation early on is that they are self-conscious and uncomfortable dictating. It's difficult to do something that just prevents you from smiling. [unclear: this sentence as transcribed doesn't quite parse — intended meaning?]
+
+So, one piece of advice that I give is to dictate in a voice that is different from the hyper-serious voice that most people bring as a default to their attempts to dictate.
+
+For instance, if you enjoy imitating a famous actor, a comedian, a cartoon character, or a jokester best friend, those would all be good options to practice early dictation in. But any funny voice will do.
+
+And, as you develop your skill, part of being a good dictator will be aligning the concept of spoken "voice" with whatever project you are wanting to complete. Some dictation — say a business letter — involves a voice that is appropriately formal. But a text message to an old friend may be considerably less formal, and appropriately so.
+
+
 ---
 
 ## Resolved
@@ -117,3 +128,5 @@ You also learn to develop your own techniques in response to need or necessity. 
 - [DEFINE: "no slop" skills] Named tools/prompts, or your own checklist? Needs specifics to be usable by a reader.
 - [VERIFY: Levenson / Sedona Method attribution] Two issues for a credibility-sensitive audience: (a) the name is usually spelled **Lester Levenson**, not Levinson; (b) Levenson originated the **Release Technique**; the **Sedona Method** was the version taught by his student Hale Dwoskin. Attributing the Sedona Method to Levenson directly may draw a correction. Confirm which you mean.
 - [GAP: technique 1 example] "We can all imagine different needs or necessities" — you gestured at examples and moved on. One or two concrete constraints you actually hit (and what you invented to solve them) would make this technique land instead of stay abstract.
+- [unclear: technique 2 opening] "It's difficult to do something that just prevents you from smiling." Doesn't parse as transcribed. Did you mean it's difficult to do something that makes you want to laugh at yourself? Something you can't do with a straight face? Re-dictate.
+- [DEVELOP: the "voice" pivot] Technique 2 quietly does something the rest of the book hasn't yet — it uses "voice" in both senses (the sound you make, and the register a document calls for) and bridges them. That double meaning may be the book's central teaching device. Worth dictating on deliberately.
