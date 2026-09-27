@@ -86,6 +86,17 @@ The Word Warrior Method I developed for the purposes of facilitating my own dict
 4. Run various "no slop" skills and do basic editing.
 
 
+## Techniques for learning to dictate (no particular order)
+
+### Technique 1 — "Do everything through dictation"
+
+I first tried this out because of — or rather, this was inspired by — self-development and spiritual author Lester Levinson, who recommended people trying to learn his Sedona Method, which is a method of emotional release, try to do everything throughout their day through releasing.
+
+What you'll quickly find is that you become less self-conscious, as your focus shifts from trying hard to dictate to getting whatever you need to get done throughout the day. And dictation becomes almost an afterthought, or a process that is secondary and eventually habitual.
+
+You also learn to develop your own techniques in response to need or necessity. We can all imagine different needs or necessities. Forcing yourself to dictate in order to accomplish things throughout the day places you on a path of many different needs, necessities, and constraints for you to figure out and develop new skills in overcoming.
+
+
 ---
 
 ## Resolved
@@ -104,3 +115,5 @@ The Word Warrior Method I developed for the purposes of facilitating my own dict
 - [GAP: AI method step 2] The reasoning for why *you* decide structure rather than the AI is the most important claim in the method, and the transcript lost it. Worth re-dictating from scratch.
 - [unclear: "Those are sisters..."] Unrecoverable. Was this part of the book, or something else in the room?
 - [DEFINE: "no slop" skills] Named tools/prompts, or your own checklist? Needs specifics to be usable by a reader.
+- [VERIFY: Levenson / Sedona Method attribution] Two issues for a credibility-sensitive audience: (a) the name is usually spelled **Lester Levenson**, not Levinson; (b) Levenson originated the **Release Technique**; the **Sedona Method** was the version taught by his student Hale Dwoskin. Attributing the Sedona Method to Levenson directly may draw a correction. Confirm which you mean.
+- [GAP: technique 1 example] "We can all imagine different needs or necessities" — you gestured at examples and moved on. One or two concrete constraints you actually hit (and what you invented to solve them) would make this technique land instead of stay abstract.
