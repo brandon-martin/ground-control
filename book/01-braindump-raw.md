@@ -117,6 +117,25 @@ When I read a Stephen King novel, I'm often so captured by his voice that afterw
 Dictation can help us develop our own writing voice as we observe what we like in others, imitate, and innovate.
 
 
+### [SIDEBAR / CALLOUT CANDIDATE] Text expansion for dictation
+
+[Author's note: "This may be a call-out box, sidebar, or something that we address later in a discussion of how AI can assist in dictation and transcription. But while it's on my mind..."]
+
+As somebody is doing the "do everything through dictation" exercise, they're likely to notice that some things they just repeat over and over again. And it gets to be a little annoying.
+
+In the world of typing, we have text expansion that can sometimes help with this, where we might, on the keyboard, type a series of keystrokes very unlikely to occur in natural language, which will be automatically expanded by the computer into a series of characters or words, for the sake of speed and convenience. It's very satisfying to work this way. And it's also possible in the world of dictation.
+
+In the story that I used to open this text, I talked about how Dee had dictated to his transcriptionist a list of codes that came from a sheet of paper that had a list of objections. And rather than stating the objections or speaking them out loud in their entirety, he simply said "Objection A," "Objection B" — or maybe it was "objection one" or "objection two." That was how the transcriptionist was able to know word for word exactly and precisely what his objections would be, so they would always be the same. And it was how he was able to have even extra speed, beyond the difference between talking and typing.
+
+Currently, as this is being written, the Wispr Flow app makes this part of the interface. I should probably get some screen captures and show a series of text expansion codes that I use — but they would be different for everyone.
+
+**The main point:** it is when you get to a point of semi-frustration, or you begin to notice that in your actual life you use words over and over again and it's lengthy, that it makes sense for you to create a short code for that phrase. If you do it in advance, in terms of what you anticipate that you will use over and over again, most likely what will happen is that you'll find out you've created codes without real benefit — because **it's the frustration that is the key to what is necessary.**
+
+Furthermore, this feature in Wispr Flow — and we can also talk about how we can do it in other transcription programs, and just with AI in general — allows you to say some phrases exactly and precisely the same way, which can be particularly useful, say for instance, for lawyers.
+
+At the end of every declaration that I produce, I need to make sure that it has certain language mandated by the state of California for a lawfully admissible or binding declaration. It includes elements like executing under penalty of perjury under the laws of the State of California. Ideally, I would want that language or phrase to be exactly the same as provided for in the statute every single time that I dictate it. So it is a very good text expansion candidate.
+
+
 ---
 
 ## Resolved
@@ -140,3 +159,7 @@ Dictation can help us develop our own writing voice as we observe what we like i
 - [unclear: technique 2 opening] "It's difficult to do something that just prevents you from smiling." Doesn't parse as transcribed. Did you mean it's difficult to do something that makes you want to laugh at yourself? Something you can't do with a straight face? Re-dictate.
 - [DEVELOP: the "voice" pivot] Technique 2 quietly does something the rest of the book hasn't yet — it uses "voice" in both senses (the sound you make, and the register a document calls for) and bridges them. That double meaning may be the book's central teaching device. Worth dictating on deliberately.
 - [DEVELOP: "observe, imitate, innovate"] Three-word progression, dictated in passing. It is a cleaner statement of how voice is actually learned than most craft books manage. Candidate for a named sub-method or chapter frame.
+- [VERIFY: app name] You said "Whisperflow." The app is **Wispr Flow** (no "e" in Wispr, two words). Spelled it correctly in the capture; confirm that is the app you mean.
+- [RECONCILE: Dee's codes] In the opening story you had him saying "insert objections 2, 5, and 8." Here you have "Objection A, Objection B... maybe it was objection one or two." Pick one and make both passages agree.
+- [VERIFY: California declaration language] If you quote the perjury language in print, quote the statute verbatim and cite it (Code Civ. Proc. § 2015.5). A guide for lawyers that paraphrases mandated language is a liability.
+- [TODO: screen captures] You flagged wanting screenshots of your own expansion codes. Decide whether the book carries app-specific screenshots at all — they date fastest of anything in it. Appendix, or a companion web page you can update?
