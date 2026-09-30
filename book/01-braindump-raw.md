@@ -152,9 +152,20 @@ This exercise is performed in [author said "two steps," then gave four] steps:
 4. Draw out or type out what you would like as a form or presentation for the information.
 
 
+### Preparation vs. stream of consciousness
+
+Part of the lesson to learn here is that good dictation comes from preparation in advance of words coming out of your mouth. Dee understood that.
+
+And there is a movement today that emphasizes just simply unfiltered stream-of-consciousness prompting, which is contrary to the wisdom that I've learned and implemented in the past.
+
+It can be valuable too, though — and it's what I'm doing right now.
+
+
 ---
 
 ## Resolved
+
+- **Prepare-vs-wait tension:** PARTLY RESOLVED by the author — see "Preparation vs. stream of consciousness." Both modes are legitimate; the book should state when each applies rather than pick one.
 
 - **"one sitting"** and **"do no document processing"**: both CONFIRMED by author.
 
@@ -181,3 +192,4 @@ This exercise is performed in [author said "two steps," then gave four] steps:
 - [TODO: screen captures] You flagged wanting screenshots of your own expansion codes. Decide whether the book carries app-specific screenshots at all — they date fastest of anything in it. Appendix, or a companion web page you can update?
 - [FIX: step count] Technique 3 announces "two steps" and then delivers four. Trivial to fix, but it is the kind of slip a reader notices immediately in a how-to book.
 - [DECIDE: "as I used to call it"] You introduced the Word Warrior Method as current ("comes in two flavors today"), and here refer to it in the past tense. Is the name being retired, or is this just a verbal tic? The book needs one consistent name for its own method.
+- [DEVELOP: the two modes] The author now holds both positions openly. The book needs an explicit rule for which mode fits which job. Working proposal, for the author to accept, reject or replace: **prepare when you know what you are producing; stream when you are finding out what you think.** Dee was producing. This brain dump is discovering.
