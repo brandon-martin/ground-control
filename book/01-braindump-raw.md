@@ -183,6 +183,10 @@ I have found that using them in my routine and professional communications has m
 - **Name:** RESOLVED — fictionalize. Real person, first name Dee, since deceased. Placeholder "Dee" used throughout pending a chosen pseudonym. [DECISION: pick the fictional name]
 - **Conversion arc:** RESOLVED — see "The conversion" above. Losing the race cemented the *concept*; the *skill* took years and the friction of the era explains the gap.
 
+## Working agreement
+
+Raw capture is not draft. Flag factual risks, contradictions and genuine gaps; hold craft and prose criticism for the polish pass unless asked.
+
 ## Open questions for the author
 
 - [GAP: numbers] The race has no figures. How long were you at it? How long was he? Roughly how many interrogatories?
@@ -202,5 +206,5 @@ I have found that using them in my routine and professional communications has m
 - [FIX: step count] Technique 3 announces "two steps" and then delivers four. Trivial to fix, but it is the kind of slip a reader notices immediately in a how-to book.
 - [DECIDE: "as I used to call it"] You introduced the Word Warrior Method as current ("comes in two flavors today"), and here refer to it in the past tense. Is the name being retired, or is this just a verbal tic? The book needs one consistent name for its own method.
 - [DEVELOP: the two modes] The author now holds both positions openly. The book needs an explicit rule for which mode fits which job. Working proposal, for the author to accept, reject or replace: **prepare when you know what you are producing; stream when you are finding out what you think.** Dee was producing. This brain dump is discovering.
-- [FIX: dating] *The Checklist Manifesto* (Atul Gawande) was published in 2009 — roughly seventeen years ago. "Not too long ago" will read as careless. Either give the year and author, or drop the time reference entirely. Name the author regardless.
-- [WEAK: unsupported claim] "Has made me a much more effective communicator" is the one assertion in the dump with no evidence behind it. Everything else in this material earns its claim with a scene or a number. This passage borrows authority from Gawande and then asserts a result. Needs one concrete before/after from your own practice.
+- [FIX: dating] *The Checklist Manifesto* is by Atul Gawande, published 2009. "Not too long ago" would read as careless; drop the time reference or give the year. Author says the age doesn't matter to him.
+- [AUTHOR NOTE: Checklist Manifesto] The author has NOT read it — knows it by reputation from people he respects. Deferred decision: (a) read enough to quote properly, (b) keep it and say plainly that it is a book he keeps hearing about rather than one he has read, or (c) cut as filler. Do not draft it as though it were read.
