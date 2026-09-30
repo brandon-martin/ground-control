@@ -161,6 +161,15 @@ And there is a movement today that emphasizes just simply unfiltered stream-of-c
 It can be valuable too, though — and it's what I'm doing right now.
 
 
+#### Technique 3, continued — the checklist literature
+
+There have been countless books and schools of thought centered around how important it is to use checklists and templates to increase quality control and quality assurance.
+
+Not too long ago, there was a best-selling book called *The Checklist Manifesto* that explored the use of checklists by everyone from airline pilots to surgeons.
+
+I have found that using them in my routine and professional communications has made me a much more effective communicator.
+
+
 ---
 
 ## Resolved
@@ -193,3 +202,5 @@ It can be valuable too, though — and it's what I'm doing right now.
 - [FIX: step count] Technique 3 announces "two steps" and then delivers four. Trivial to fix, but it is the kind of slip a reader notices immediately in a how-to book.
 - [DECIDE: "as I used to call it"] You introduced the Word Warrior Method as current ("comes in two flavors today"), and here refer to it in the past tense. Is the name being retired, or is this just a verbal tic? The book needs one consistent name for its own method.
 - [DEVELOP: the two modes] The author now holds both positions openly. The book needs an explicit rule for which mode fits which job. Working proposal, for the author to accept, reject or replace: **prepare when you know what you are producing; stream when you are finding out what you think.** Dee was producing. This brain dump is discovering.
+- [FIX: dating] *The Checklist Manifesto* (Atul Gawande) was published in 2009 — roughly seventeen years ago. "Not too long ago" will read as careless. Either give the year and author, or drop the time reference entirely. Name the author regardless.
+- [WEAK: unsupported claim] "Has made me a much more effective communicator" is the one assertion in the dump with no evidence behind it. Everything else in this material earns its claim with a scene or a number. This passage borrows authority from Gawande and then asserts a result. Needs one concrete before/after from your own practice.
