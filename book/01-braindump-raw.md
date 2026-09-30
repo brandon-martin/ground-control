@@ -136,6 +136,22 @@ Furthermore, this feature in Wispr Flow — and we can also talk about how we ca
 At the end of every declaration that I produce, I need to make sure that it has certain language mandated by the state of California for a lawfully admissible or binding declaration. It includes elements like executing under penalty of perjury under the laws of the State of California. Ideally, I would want that language or phrase to be exactly the same as provided for in the statute every single time that I dictate it. So it is a very good text expansion candidate.
 
 
+### Technique 3 — Build templates and checklists for recurring communication
+
+In the next step for understanding or learning how to dictate in practice, I advise people to create a template or checklist for future recurring writing or transactional communications.
+
+In the Word Warrior Method, as I used to call it, I would collect sources of information — documents, quotes, emails, cases, etc. — and then, with everything in front of me, figure out how best to organize or present in a structure or outline before dictating according to the constraints of that structure or outline.
+
+However, there are many cases where we simply need to provide information in an organized way, and it is helpful if the structure reminds us what to include — what is necessary to include and what is optional to include — and includes it in a standard presentation or format, so that a reader knows at a glance where to find it, since that information is always presented in the same way.
+
+This exercise is performed in [author said "two steps," then gave four] steps:
+
+1. Brainstorm and think about what areas of your life involve repeated communication, or communication that might benefit from a template.
+2. List all of the information that you would want to include in every single instance of that communication.
+3. List information that you would include optionally in such communication.
+4. Draw out or type out what you would like as a form or presentation for the information.
+
+
 ---
 
 ## Resolved
@@ -163,3 +179,5 @@ At the end of every declaration that I produce, I need to make sure that it has 
 - [RECONCILE: Dee's codes] In the opening story you had him saying "insert objections 2, 5, and 8." Here you have "Objection A, Objection B... maybe it was objection one or two." Pick one and make both passages agree.
 - [VERIFY: California declaration language] If you quote the perjury language in print, quote the statute verbatim and cite it (Code Civ. Proc. § 2015.5). A guide for lawyers that paraphrases mandated language is a liability.
 - [TODO: screen captures] You flagged wanting screenshots of your own expansion codes. Decide whether the book carries app-specific screenshots at all — they date fastest of anything in it. Appendix, or a companion web page you can update?
+- [FIX: step count] Technique 3 announces "two steps" and then delivers four. Trivial to fix, but it is the kind of slip a reader notices immediately in a how-to book.
+- [DECIDE: "as I used to call it"] You introduced the Word Warrior Method as current ("comes in two flavors today"), and here refer to it in the past tense. Is the name being retired, or is this just a verbal tic? The book needs one consistent name for its own method.
