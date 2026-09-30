@@ -170,6 +170,15 @@ Not too long ago, there was a best-selling book called *The Checklist Manifesto*
 I have found that using them in my routine and professional communications has made me a much more effective communicator.
 
 
+#### Technique 3, continued — checklists and defensibility
+
+As a lawyer, this process of trying to systematize your processes through checklists and routine communications can provide a lot of peace of mind.
+
+When everything goes right, and there's a positive outcome for your clients, there's rarely any need to worry about everything having been performed to a consistent standard in a file. However, when a client is unhappy or angry because of an unfortunate outcome — whether just or not — we can reach a place where, because of malpractice claims, there is constant second-guessing of every little potential step that could have been taken.
+
+I have found that the checklist approach keeps the firm centered upon tasks that are not just necessary to succeed, but necessary to defend our work in the event that we do not succeed for whatever reason.
+
+
 ---
 
 ## Resolved
