@@ -179,6 +179,19 @@ When everything goes right, and there's a positive outcome for your clients, the
 I have found that the checklist approach keeps the firm centered upon tasks that are not just necessary to succeed, but necessary to defend our work in the event that we do not succeed for whatever reason.
 
 
+#### Technique 1, continued — the billable-time bonus
+
+When you get into a habit of dictating after each significant action that you take, or in support of said action, it can significantly increase your billable time — in that you aren't losing time because you failed to write it down in different places or enter it into computer systems.
+
+Much of the time now, AI can take different voice notes that you've created and properly sort them to where they need to be recorded later by the AI, or by a human if that's your preference. After I complete a document — sometimes through dictation — I simply hit the record button one more time for a new note, documenting what I just did, that is tagged to be recorded as time in my time recording system.
+
+You'll be surprised that there will be time that you spent coming up with great ideas and researching off-site, in the shower, in your car, etc., that are only captured because you are dictating.
+
+Now, I'll also mention that there are some times when dictating is less socially acceptable or convenient than simply typing a note on my phone. So the system that I use to capture thoughts, time, and notes is the same, and the tag routing system — which isn't even entirely necessary for my AI these days — is the same for all.
+
+For instance, I like to enter deadlines given to me by the court at law and motion hearings immediately after receiving them, since as a young associate I lost paper that I had written them down on more than once. I type said information if other attorneys are around in courtroom halls, simply because I don't want questions about dictation.
+
+
 ---
 
 ## Resolved
@@ -218,3 +231,7 @@ Raw capture is not draft. Flag factual risks, contradictions and genuine gaps; h
 - [FIX: dating] *The Checklist Manifesto* is by Atul Gawande, published 2009. "Not too long ago" would read as careless; drop the time reference or give the year. Author says the age doesn't matter to him.
 - [AUTHOR NOTE: Checklist Manifesto] The author has NOT read it — knows it by reputation from people he respects. Deferred decision: (a) read enough to quote properly, (b) keep it and say plainly that it is a book he keeps hearing about rather than one he has read, or (c) cut as filler. Do not draft it as though it were read.
 - [MAJOR THEME: defensibility] This is a third, distinct value proposition — separate from speed and from quality. Systematized communication as malpractice defense. No general dictation or productivity book can make this argument, and it speaks directly to what the professional buyer actually fears. Strong candidate for its own chapter and for the sales copy.
+- [MAJOR THEME: capture-everything] The billable-time argument is the most directly monetizable claim in the book: dictation recovers billable work that currently evaporates (shower, car, hallway). For an hourly professional this converts the book's price into a rounding error. Needs a number — even a rough estimate of recovered hours per month.
+- [DEVELOP: one capture system, two input modes] Voice and typing feed the SAME capture-and-routing system; the choice between them is situational (social acceptability, convenience), not architectural. This is a more mature position than "dictate everything" and partly qualifies Technique 1. Reconcile the two deliberately.
+- [NOTE: the social cost of dictation] "I don't want questions about dictation" is the only place so far that names dictation's social friction in a professional setting. Real, underdiscussed, and worth its own short section.
+
