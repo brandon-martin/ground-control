@@ -202,6 +202,19 @@ This exercise to develop your dictation skills is probably not for everyone, but
 4. Continue until the entire substance of your dictation is what you're intending to be transcribed, but communicated in a very fast auctioneer-style delivery.
 
 
+### Technique 5 — Make a speech (structure and analysis)
+
+The next exercise is to make a speech. But this is more about structure, and your skills in analysis, before you begin speaking or dictating.
+
+Take a topic that interests you — or ask somebody else for a topic. And on a sheet of paper, or in your mind if you are more advanced and have done a couple of speeches already, take the topic and break it into analytical pieces or components that you can speak freely about.
+
+Some of the analytical structures may include, for instance:
+
+- A chronological breakdown, recounting how a subject developed from the beginning of a time period to the end of that time period
+- Cause and effect
+- Comparison and contrast
+
+
 ---
 
 ## Resolved
@@ -245,4 +258,6 @@ Raw capture is not draft. Flag factual risks, contradictions and genuine gaps; h
 - [DEVELOP: one capture system, two input modes] Voice and typing feed the SAME capture-and-routing system; the choice between them is situational (social acceptability, convenience), not architectural. This is a more mature position than "dictate everything" and partly qualifies Technique 1. Reconcile the two deliberately.
 - [NOTE: the social cost of dictation] "I don't want questions about dictation" is the only place so far that names dictation's social friction in a professional setting. Real, underdiscussed, and worth its own short section.
 - [STRUCTURE: drill family] Technique 4 is the same shape as Technique 2 (funny voice): start from a performance that has nothing to do with the work, then swap content in gradually until only the delivery remains. Two instances of one underlying teaching pattern. Worth naming the pattern so later drills can be built from it deliberately.
+- [GAP: structure list] Technique 5 names three analytical structures and stops at "some of the structures may include." A reader needs the full working set, since picking the structure is step 2 of BOTH methods and the stated defense against AI-default shape. Candidates to confirm or reject: problem/solution, general-to-specific, specific-to-general, categorical (by type), spatial, order of importance, IRAC or CRAC for lawyers, question-and-answer, narrative. This list may be the single most reusable asset in the book.
+- [NOTE: progression] Technique 5 moves from delivery (techniques 1-4) to structure. The drills so far trained the mouth; this one trains the outline. Worth making that two-part progression explicit for the reader.
 
