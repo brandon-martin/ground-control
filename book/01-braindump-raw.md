@@ -215,6 +215,19 @@ Some of the analytical structures may include, for instance:
 - Comparison and contrast
 
 
+#### Technique 5, continued — Lincoln-Douglas / value proposition structure
+
+A more sophisticated structure that works well for the speech exercise is Lincoln-Douglas debate style, or value proposition debate, used by many high school students to sharpen their debate skills.
+
+1. Pick an advocacy topic that would have opposition.
+2. Choose a basic human value — life, liberty, happiness, knowledge, kindness, something like that.
+3. Begin your speech identifying the topic and your side of the topic.
+4. Segue into a discussion of why that value is important.
+5. Argue, in as many contentions as you feel are strong and meritorious, why your position on the resolution or topic better achieves the basic human value than its opposite.
+
+[AUTHOR TODO, dictated: "I'll need to insert a couple of concrete examples here of the structure of these speeches on different topics so that it becomes more concrete for the reader."]
+
+
 ---
 
 ## Resolved
@@ -260,4 +273,6 @@ Raw capture is not draft. Flag factual risks, contradictions and genuine gaps; h
 - [STRUCTURE: drill family] Technique 4 is the same shape as Technique 2 (funny voice): start from a performance that has nothing to do with the work, then swap content in gradually until only the delivery remains. Two instances of one underlying teaching pattern. Worth naming the pattern so later drills can be built from it deliberately.
 - [GAP: structure list] Technique 5 names three analytical structures and stops at "some of the structures may include." A reader needs the full working set, since picking the structure is step 2 of BOTH methods and the stated defense against AI-default shape. Candidates to confirm or reject: problem/solution, general-to-specific, specific-to-general, categorical (by type), spatial, order of importance, IRAC or CRAC for lawyers, question-and-answer, narrative. This list may be the single most reusable asset in the book.
 - [NOTE: progression] Technique 5 moves from delivery (techniques 1-4) to structure. The drills so far trained the mouth; this one trains the outline. Worth making that two-part progression explicit for the reader.
+- [AUTHOR TODO: LD worked examples] Two or three fully structured example speeches on different topics. Author flagged this himself. These are drills, so worked examples are the part readers actually use — likely the highest-value unwritten item in the book so far.
+- [NOTE: value-first argument] The LD structure teaches arguing from a shared value rather than from position, which is a persuasion skill well beyond dictation. Connects to the book's communication-skills promise and gives the professional reader something usable in a brief, a negotiation or a pitch.
 
