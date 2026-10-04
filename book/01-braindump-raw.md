@@ -192,6 +192,16 @@ Now, I'll also mention that there are some times when dictating is less socially
 For instance, I like to enter deadlines given to me by the court at law and motion hearings immediately after receiving them, since as a young associate I lost paper that I had written them down on more than once. I type said information if other attorneys are around in courtroom halls, simply because I don't want questions about dictation.
 
 
+### Technique 4 — The auctioneer drill
+
+This exercise to develop your dictation skills is probably not for everyone, but I found that those who enjoy impersonating an auctioneer — as in somebody who speaks very quickly at an auction — may enjoy this.
+
+1. Do your best impersonation of an auctioneer into your dictation recording device.
+2. Next, do your same impersonation, but change some of the words so that they are part of a substantive communication — something that you'd like to say or get down on paper.
+3. Iterate a couple more times, each time keeping the same speed and tone as your auctioneer-style impersonation, but make more and more of the words your substantive dictation.
+4. Continue until the entire substance of your dictation is what you're intending to be transcribed, but communicated in a very fast auctioneer-style delivery.
+
+
 ---
 
 ## Resolved
@@ -234,4 +244,5 @@ Raw capture is not draft. Flag factual risks, contradictions and genuine gaps; h
 - [MAJOR THEME: capture-everything] The billable-time argument is the most directly monetizable claim in the book: dictation recovers billable work that currently evaporates (shower, car, hallway). For an hourly professional this converts the book's price into a rounding error. Needs a number — even a rough estimate of recovered hours per month.
 - [DEVELOP: one capture system, two input modes] Voice and typing feed the SAME capture-and-routing system; the choice between them is situational (social acceptability, convenience), not architectural. This is a more mature position than "dictate everything" and partly qualifies Technique 1. Reconcile the two deliberately.
 - [NOTE: the social cost of dictation] "I don't want questions about dictation" is the only place so far that names dictation's social friction in a professional setting. Real, underdiscussed, and worth its own short section.
+- [STRUCTURE: drill family] Technique 4 is the same shape as Technique 2 (funny voice): start from a performance that has nothing to do with the work, then swap content in gradually until only the delivery remains. Two instances of one underlying teaching pattern. Worth naming the pattern so later drills can be built from it deliberately.
 
